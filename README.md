@@ -49,5 +49,5 @@
 
 ###  Контакты для связи
 
-[![Telegram](https://shields.io)](https://t.me/IDMikhalych)
-[![Email](https://shields.io)](mailto:dmitriy.ivanovich.mi@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IDMikhalych)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmitriy.ivanovich.mi@gmail.com)
