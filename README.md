@@ -1,4 +1,4 @@
-
+<p align="center">
   <img src="https://github.com/idm-fullStack/idm-fullStack/blob/main/triangle.png" width="180" alt="IDM System Analysis Logo">
 </p>
 
