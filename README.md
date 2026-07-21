@@ -1,5 +1,5 @@
 markdown<p align="center">
-  <img src="https://github.com/idm-fullStack/idm-fullStack/triangle.png" width="180" alt="IDM System Analysis Logo">
+  <img src="https://github.com/idm-fullStack/idm-fullStack/blob/main/triangle.png" width="180" alt="IDM System Analysis Logo">
 </p>
 
 <h1 align="center">Dmitriy | Technical System Analyst</h1>
