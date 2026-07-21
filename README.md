@@ -48,5 +48,6 @@
 ---
 
 ###  Контакты для связи
-* **Telegram:** @IDMikhalych
-* **Email:** dmitriy.ivanovich.mi@gmail.com
+
+[![Telegram](https://shields.io)](https://t.me/IDMikhalych)
+[![Email](https://shields.io)](mailto:dmitriy.ivanovich.mi@gmail.com)
