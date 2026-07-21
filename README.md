@@ -1,16 +1,51 @@
-## Hi there 👋
+markdown<p align="center">
+  <img src="https://github.com/idm-fullStack/idm-fullStack/triangle.png" width="180" alt="IDM System Analysis Logo">
+</p>
 
-<!--
-**idm-fullStack/idm-fullStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Dmitriy | Technical System Analyst</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Системный аналитик с глубоким Full-Stack бэкграундом. Проектирую архитектуру информационных систем, логические модели данных и интеграционные взаимодействия (REST API, Apache Kafka).
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Ключевое преимущество:</b> благодаря инженерному опыту, я свободно читаю код, говорю с разработчиками на одном техническом языке и создаю детальные спецификации (ТЗ), минимизируя риски на этапе реализации.
+</p>
+
+---
+
+###  Hard Skills & Tools
+
+* **Системный анализ:** Проектирование архитектуры (SDLC) • UML / PlantUML • ERD • Use Cases & User Stories • Разработка ТЗ
+* **Интеграции и Бэкенд:** Python • REST API • Swagger / OpenAPI • Apache Kafka • Postman
+* **Базы данных:** PostgreSQL • Проектирование реляционных БД • SQL (DML, DDL)
+* **Инструменты командной разработки:** Git / GitHub • Agile / Scrum
+
+---
+
+###  Основные проекты в репозитории
+
+ **[ERPForge](https://github.com/idm-fullStack/ERPForge)**  
+  *Проектирование комплексной платформы автоматизации предприятий (альтернатива тяжелым решениям от SAP/Oracle).*  
+  **Аналитика:** Декомпозиция сложных бизнес-процессов, проектирование архитектуры связанных баз данных, моделирование логики учета, распределения ресурсов и сквозных интерфейсов управления предприятием.
+
+ **[IDM-FQW-GeoFault-Platform](https://github.com/idm-fullStack/IDM-FQW-GeoFault-Platform)**  
+  *ГИС-платформа для анализа геологических пластов. Продукт официально защищен Роспатентом.*  
+  **Аналитика:** Проектирование Offline-first логики синхронизации данных, разработка архитектуры пространственной БД, описание алгоритмов обработки геоданных.
+
+ **[bot_shop_template](https://github.com/idm-fullStack/bot_shop_template)**  
+  *Асинхронный шаблон для развертывания e-commerce систем в Telegram.*  
+  **Аналитика:** Проектирование модульной архитектуры бота, проработка конечных автоматов логики состояний (FSM) и структуры хранения данных.
+
+   **[3DModels](https://github.com/idm-fullStack/3DModels)**  
+ *Скрипт процедурной генерации 3D-мешей на базе чистой математики.*  
+  **Аналитика & R&D:** Разработка алгоритмического ядра для аффинных преобразований и пересчета матриц координат вершин. Данный скрипт использовался как расчетный модуль в смежной аналитической платформе для трехмерного моделирования и визуализации пространственных объектов.
+  
+ **[sport-ecommerce](https://github.com/idm-fullStack/sport-ecommerce)**  
+  *Разработка архитектуры и серверной логики интернет-магазина спортивных товаров.*  
+  **Аналитика:** Проектирование реляционной структуры базы данных, разработка модулей административной панели, интеграция кастомных защитных компонентов (капча) и проработка пользовательских сценариев покупки (e-commerce).
+---
+
+###  Контакты для связи
+* **Telegram:** @IDMikhalych
+* **Email:** dmitriy.ivanovich.mi@gmail.com
