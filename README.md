@@ -23,7 +23,46 @@
 
 ---
 
-###  Основные проекты в репозитории
+###  Основные проекты и разработки
+
+<details>
+<summary><b> Раскрыть  архитектурный стек: от нормативных ГОСТ-стандартов до Enterprise-автономии (Репозитории проектов)</b></summary>
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="28%" align="left"> Репозиторий / Ступень</th>
+      <th width="42%" align="left"> Назначение проекта</th>
+      <th width="30%" align="left"> Технологический стек / Артефакты</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/idm-fullStack/gost-monolith-parser"> gost-monolith-parser</a></b><br><i>«Локальный ГОСТ-Монолит»</i></td>
+      <td>Кустарный веб-парсер цен конкурентов для малого бизнеса, обложенный нормативными регламентами.</td>
+      <td>• Python (BeautifulSoup)<br>• SQLite • CSV-логи<br>• ТЗ строго по <b>ГОСТ 34/38</b><br>• Схема BPMN (5 элементов)</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/idm-fullStack/declarative-echo-bot"> declarative-echo-bot</a></b><br><i>«Docs-as-Code утилита»</i></td>
+      <td>Telegram Эхо-бот с полной изоляцией конфигурации и интерактивной документацией.</td>
+      <td>• Python (aiogram)<br>• JSON Configuration<br>• База знаний <b>Docs-as-Code</b><br>• Интерактивный <b>Mermaid</b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/idm-fullStack/contract-bot-gateway"> contract-bot-gateway</a></b><br><i>«Design-First микросервис»</i></td>
+      <td>Продвинутый гибридный бот-парсер со строгой контрактной защитой и автоматическим тестированием.</td>
+      <td>• <b>TypeSpec</b> • <b>C4 (Structurizr)</b><br>• OpenAPI v3 • Karate DSL<br>• Автоматический фазинг через <b>Schemathesis CLI</b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/idm-fullStack/ERPForge"> ERPForge</a></b><br><i>«Enterprise-Комбайн»</i></td>
+      <td>Архитектурные чертежи масштабно-инвариантной событийно-ориентированной ERP-платформы (альтернатива SAP/1С).</td>
+      <td>• <b>Rust (Tokio)</b> • FastAPI<br>• <b>React + Tauri (Desktop)</b><br>• ClickHouse • Apache Kafka<br>• Асинхронный <b>CQRS</b> контур<br>• Алерт <code>MarginDroppedAlert</code></td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
 
  **[ERPForge](https://github.com/idm-fullStack/ERPForge)**  
   *Проектирование комплексной платформы автоматизации предприятий (альтернатива тяжелым решениям от SAP/Oracle).*  
